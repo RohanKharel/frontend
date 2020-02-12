@@ -1,0 +1,14 @@
+
+// {
+//     "plugins": ['@babel/plugin-transform-arrow-functions']
+// }
+
+{
+    presets: ['@babel/preset-env','@babel/preset-react'],
+    plugins: ['@babel/plugin-proposal-class-properties']
+}
+
+// grunt gulp min.js
+
+// webpack(it is used for bundling)
+
